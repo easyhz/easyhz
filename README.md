@@ -1,5 +1,6 @@
 ### Hi there 👋
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhz&layout=compact)](https://github.com/easyhz/github-readme-stats) -->
+<!--
 **EASYhz/easyhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhz)](https://github.com/easyhz/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyhz)](https://github.com/easyhz/github-readme-stats)
-
+-->
 
 ## Studying 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
