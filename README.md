@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
+<!--
 ---
 ![PCBL's github stats](https://github-readme-stats.vercel.app/api?username=easyhz&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyon3)](https://solved.ac/jiyon3/)
+-->
